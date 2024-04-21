@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# 2차 미분의
 # 함수 정의
 def f(x):
     return x**3 - 3*x**2 + 2
